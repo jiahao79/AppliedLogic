@@ -1,4 +1,6 @@
 # AppliedLogic
+Computer Science 2209 - Propositional and predicate logic; representing static and dynamic properties of real-world systems; logic as a tool for representation, reasoning and calculation; logic and programming. 
+
 ### Question 1
 Write a prolog program that contains a family of a few generations and name all the members and provide facts about them.
 
